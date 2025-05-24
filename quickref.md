@@ -1,5 +1,5 @@
 ### Latency
-![[latency.png]]
+![](./assets/latency.png)
 
 (Accurate as of 2023)
 
@@ -20,4 +20,4 @@
 | Hardware virtualization reboot | 40s       | 4000 yrs    |
 | Physical system reboot         | 5m        | 32 millenia |
 ### SSL
-![[ssl-certs.png]]
+![](./assets/ssl-certs.png)
